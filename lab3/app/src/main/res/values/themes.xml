@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WeatherApplication" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.WeatherApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.WeatherApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.WeatherApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

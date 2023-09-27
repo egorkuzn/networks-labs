@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ae275cd-13a1-454e-90f8-f28fe481824d" name="Changes" comment="last change" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\egork\.android\avd\Pixel_5_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lab3">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2EkjuDXJD9WxrUrnRtxDQlMInFS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/egork/IdeaProjects/Netwok-techologies/src/main/kotlin/lab1/src/kotlin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\egork\IdeaProjects\Netwok-techologies\src\main\kotlin\lab1\src\kotlin" />
+      <recent name="C:\Users\egork\IdeaProjects\Netwok-techologies\src\main\kotlin\lab2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\egork\IdeaProjects\network-techologies" />
+      <recent name="C:\Users\egork\IdeaProjects\network-techologies\" />
+      <recent name="C:\Users\egork\IdeaProjects\network-techologies\lab1" />
+      <recent name="C:\Users\egork\IdeaProjects\network-techologies\.idea" />
+      <recent name="C:\Users\egork\IdeaProjects\network-techologies\lab3" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="org.example.socks" />
+      <recent name="lab3.controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lab1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.WeatherApplication.app">
+    <configuration name="WeatherApplication.app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="WeatherApplication.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Netwok-techologies [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="lab5-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lab5/target/lab5-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.Main" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.socks.Main" />
+      <module name="lab5" />
+      <option name="PROGRAM_PARAMETERS" value="9000" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.Main" />
+      <module name="Netwok-techologies.main" />
+      <option name="PROGRAM_PARAMETERS" value="224.1.1.1" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Main (2)" />
+        <item itemvalue="JAR Application.lab5-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Kotlin.Main (1)" />
+        <item itemvalue="Kotlin.Main" />
+        <item itemvalue="Gradle.Netwok-techologies [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.8-corretto-17.0.8.1-a7578c744062-a485c77b" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StandaloneScriptsStorage">
+    <option name="files">
+      <set>
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+      </set>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\egork\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae275cd-13a1-454e-90f8-f28fe481824d" name="Changes" comment="" />
+      <created>1663146705301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663146705301</updated>
+      <workItem from="1663146707225" duration="5853000" />
+      <workItem from="1663160265708" duration="331000" />
+      <workItem from="1663160646230" duration="16456000" />
+      <workItem from="1663210508150" duration="2096000" />
+      <workItem from="1663221083726" duration="4891000" />
+      <workItem from="1663241187558" duration="8121000" />
+      <workItem from="1663249659633" duration="12601000" />
+      <workItem from="1663333240530" duration="182000" />
+      <workItem from="1663826117893" duration="2051000" />
+      <workItem from="1664821069815" duration="1723000" />
+      <workItem from="1664961615396" duration="4982000" />
+      <workItem from="1664974894668" duration="13790000" />
+      <workItem from="1665017991197" duration="1656000" />
+      <workItem from="1665022036467" duration="4524000" />
+      <workItem from="1665028131370" duration="3318000" />
+      <workItem from="1665036531743" duration="17000" />
+      <workItem from="1665037222984" duration="200000" />
+      <workItem from="1665038353617" duration="1828000" />
+      <workItem from="1665048841187" duration="78000" />
+      <workItem from="1665536020201" duration="8883000" />
+      <workItem from="1665545933307" duration="999000" />
+      <workItem from="1665560097213" duration="11222000" />
+      <workItem from="1665573029226" duration="284000" />
+      <workItem from="1665577037929" duration="12802000" />
+      <workItem from="1665598320244" duration="993000" />
+      <workItem from="1665622933445" duration="1533000" />
+      <workItem from="1665629232273" duration="2123000" />
+      <workItem from="1665632426394" duration="6042000" />
+      <workItem from="1665639374792" duration="3288000" />
+      <workItem from="1665650700832" duration="607000" />
+      <workItem from="1665905136737" duration="26415000" />
+      <workItem from="1666007830243" duration="25000" />
+      <workItem from="1666009760386" duration="304000" />
+      <workItem from="1666018479206" duration="4402000" />
+      <workItem from="1666244920211" duration="805000" />
+      <workItem from="1666790686064" duration="172000" />
+      <workItem from="1666849723632" duration="270000" />
+      <workItem from="1666857588226" duration="300000" />
+      <workItem from="1667056119226" duration="473000" />
+      <workItem from="1667057499705" duration="716000" />
+      <workItem from="1667065545253" duration="1398000" />
+      <workItem from="1667643152536" duration="1688000" />
+      <workItem from="1667654097778" duration="51000" />
+      <workItem from="1670319277547" duration="101000" />
+      <workItem from="1670333633960" duration="15713000" />
+      <workItem from="1670403380575" duration="13830000" />
+      <workItem from="1670419064108" duration="2783000" />
+      <workItem from="1670428336259" duration="3700000" />
+      <workItem from="1670432230052" duration="1259000" />
+      <workItem from="1670464928196" duration="4160000" />
+      <workItem from="1670470876392" duration="2501000" />
+      <workItem from="1670478882886" duration="1125000" />
+      <workItem from="1670946772485" duration="632000" />
+      <workItem from="1674876981482" duration="194000" />
+      <workItem from="1677506825132" duration="315000" />
+      <workItem from="1680520641734" duration="1812000" />
+      <workItem from="1682950920705" duration="3157000" />
+      <workItem from="1683432824428" duration="1578000" />
+      <workItem from="1689919399979" duration="876000" />
+      <workItem from="1695788049665" duration="3002000" />
+      <workItem from="1695792427255" duration="88000" />
+    </task>
+    <task id="LOCAL-00001" summary="First lab initial commit">
+      <created>1663263490154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663263490154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Released new concurrent class Checker.kt">
+      <created>1663264137080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663264137080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README.md added">
+      <created>1663264555680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663264555680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="also some small changes to make it pretty">
+      <created>1663265306268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663265306268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Making code clear.&#10;Starting 2nd task.">
+      <created>1664821580044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664821580044</updated>
+    </task>
+    <task id="LOCAL-00006" summary="So much time was spent on finding the best way of big blocks sending">
+      <created>1664992807822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664992807822</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sending of file done">
+      <created>1665018909999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665018909999</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add some validators for client. Started work with server">
+      <created>1665019670001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665019670001</updated>
+    </task>
+    <task id="LOCAL-00009" summary="File download func coding">
+      <created>1665025920045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665025920045</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Im decided to make class for thread">
+      <created>1665030888417</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665030888417</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fast commit">
+      <created>1665036041695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665036041695</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Client controller structure finishing">
+      <created>1665040182315</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665040182315</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Debug. Cannot create file">
+      <created>1665545720912</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665545720912</updated>
+    </task>
+    <task id="LOCAL-00014" summary="First successful uploading">
+      <created>1665547022097</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665547022097</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Client controller refactoring">
+      <created>1665560811486</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665560811486</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Client refactoring">
+      <created>1665561103083</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665561103083</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Big bugfixing">
+      <created>1665571621588</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665571621589</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Success commit">
+      <created>1665572052214</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665572052214</updated>
+    </task>
+    <task id="LOCAL-00019" summary="So confused">
+      <created>1665584527869</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665584527869</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Now it takes all bytes and saves all">
+      <created>1665637774595</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665637774595</updated>
+    </task>
+    <task id="LOCAL-00021" summary="stable version">
+      <created>1665650754751</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665650754751</updated>
+    </task>
+    <task id="LOCAL-00022" summary="refactoring">
+      <created>1665913731875</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665913731875</updated>
+    </task>
+    <task id="LOCAL-00023" summary="understanding that one check enough">
+      <created>1665917884051</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665917884051</updated>
+    </task>
+    <task id="LOCAL-00024" summary="last changes before real testing">
+      <created>1665919376120</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665919376120</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fixed after test on .jpeg">
+      <created>1665920400802</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665920400802</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Nice and stable work">
+      <created>1665929223524</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665929223524</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Final commit: thread pool done | all bugs fixed">
+      <created>1665936582065</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665936582065</updated>
+    </task>
+    <task id="LOCAL-00028" summary="lab3 done">
+      <created>1666790857489</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1666790857489</updated>
+    </task>
+    <task id="LOCAL-00029" summary="making a big replacement">
+      <created>1667644150074</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667644150074</updated>
+    </task>
+    <task id="LOCAL-00030" summary="adding 5th lab">
+      <created>1670351564991</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670351564991</updated>
+    </task>
+    <task id="LOCAL-00031" summary="5th lab finished">
+      <created>1670425911187</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1670425911187</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fixup! 5th lab finished">
+      <created>1670426254692</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1670426254692</updated>
+    </task>
+    <task id="LOCAL-00033" summary="5th lab finished">
+      <created>1670426842807</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1670426842807</updated>
+    </task>
+    <task id="LOCAL-00034" summary="5th lab finished">
+      <created>1670427275042</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1670427275042</updated>
+    </task>
+    <task id="LOCAL-00035" summary="5th lab finished">
+      <created>1670427392937</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1670427392937</updated>
+    </task>
+    <task id="LOCAL-00036" summary="last change">
+      <option name="closed" value="true" />
+      <created>1695788633814</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1695788633814</updated>
+    </task>
+    <task id="LOCAL-00037" summary="last change">
+      <option name="closed" value="true" />
+      <created>1695789376702</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1695789376702</updated>
+    </task>
+    <task id="LOCAL-00038" summary="last change">
+      <option name="closed" value="true" />
+      <created>1695790498577</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1695790498577</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="86" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lab4" />
+      <path value="$PROJECT_DIR$/src/main/kotlin/lab4" />
+      <path value="$PROJECT_DIR$/src/main/kotlin/lab4/04_snakes_task" />
+    </ignored-roots>
+    <MESSAGE value="Fast commit" />
+    <MESSAGE value="Client controller structure finishing" />
+    <MESSAGE value="Debug. Cannot create file" />
+    <MESSAGE value="First successful uploading" />
+    <MESSAGE value="Client controller refactoring" />
+    <MESSAGE value="Client refactoring" />
+    <MESSAGE value="Big bugfixing" />
+    <MESSAGE value="Success commit" />
+    <MESSAGE value="So confused" />
+    <MESSAGE value="Now it takes all bytes and saves all" />
+    <MESSAGE value="stable version" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="understanding that one check enough" />
+    <MESSAGE value="last changes before real testing" />
+    <MESSAGE value="fixed after test on .jpeg" />
+    <MESSAGE value="it was too easy to do. So peaty to spent so much time" />
+    <MESSAGE value="Nice and stable work" />
+    <MESSAGE value="Final commit: thread pool done | all bugs fixed" />
+    <MESSAGE value="lab3 done" />
+    <MESSAGE value="making a big replacement" />
+    <MESSAGE value="adding" />
+    <MESSAGE value="adding 5th lab" />
+    <MESSAGE value="fixup! 5th lab finished" />
+    <MESSAGE value="5th lab finished" />
+    <MESSAGE value="last change" />
+    <option name="LAST_COMMIT_MESSAGE" value="last change" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
